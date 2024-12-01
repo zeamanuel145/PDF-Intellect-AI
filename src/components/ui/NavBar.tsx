@@ -25,7 +25,7 @@ const Navbar =()=>{
                             variant:"ghost",
                             size:'sm'
                             })}>
-                                LogIn
+                                Sign In  
                         </LoginLink>
                         </>
 
